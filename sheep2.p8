@@ -15,16 +15,21 @@ dangers
 
  enemies
   wolves
-  bees
+  wolves in sheeps clothing
+  wasps
+  thieves (in bushes?)
+  
 
  hunger
-  must eat apples?
-  what happens if empty?
+  speed = fullness
+  empty stomach = slow
+  food:
+   apples
+   honey
 
- wolves in sheeps clothing!!
-  they seem good at first
-  but they shake off costume
-  and then they attack you!
+ night
+  cant see in darkness
+  enemies can sneak up!
 
 interactive objects
 
